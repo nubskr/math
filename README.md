@@ -1,1 +1,1 @@
-# math
+Math topics for competitive programming
